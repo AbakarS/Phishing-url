@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "phishing-url-analyzer"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "This project tests several models on phishing URL data and chooses one of the best models to perform future analysis on new phishing data."
+authors = ["SAID Abakar <abakar.said.pro@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
