@@ -15,3 +15,6 @@ This project is structured as follows :
 3. **poetry.lock** : stores the exact versions of my project's dependencies and their subdependencies. This ensures that every time someone installs my project, they get the exact same versions of libraries, which helps keep the environment consistent and reproducible.
 
 4. **pyproject.toml** : This file plays a crucial role in managing dependencies, configuring my project, and managing metadata.
+
+
+I cleaned this project from some folders and files that were created when running python files. You might want to check the **commit** for more information.
